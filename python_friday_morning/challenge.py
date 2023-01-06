@@ -17,7 +17,7 @@ def main():
     rand_int = random.randint(0,100)
     
     #declare global user_input so we can access this variable inside the while loop
-    global user_input
+#    global user_input
     user_input = int(input("guess a number between 1 and 100"))
     
     #give some response to user
