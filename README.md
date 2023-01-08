@@ -3,6 +3,9 @@
 This is my frist readme and first steps of exploration into the world of python!
 Follow us through the days and see how our skills grow and progress!
 
+##Course instructor and author of challeneges 
+
+Python Code Examples Author: RZFeeser Email: rzfeeser@alta3.com <rzfeeser@alta3.com>
 ## Installation
 make sure that Python3 is installed on your system. If not already, use a package manager (i.e. homebrew) or download directly here:
 [Python3](https://www.python.org/downloads/)
