@@ -11,9 +11,9 @@ make sure that Python3 is installed on your system. If not already, use a packag
 
 all .py files can be ran by changing into the desired directory and running 
 
-'''
+```
 python3 example_file.py
-'''
+```
 
 ## Contributing
 
