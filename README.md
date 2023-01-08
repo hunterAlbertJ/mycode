@@ -3,7 +3,7 @@
 This is my frist readme and first steps of exploration into the world of python!
 Follow us through the days and see how our skills grow and progress!
 
-## Course instructor and author of challeneges 
+## Course Instructor And Author Of Challeneges 
 
 Author Contact Info: RZFeeser Email: rzfeeser@alta3.com
 ## Installation
