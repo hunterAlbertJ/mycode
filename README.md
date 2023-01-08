@@ -9,18 +9,11 @@ make sure that Python3 is installed on your system. If not already, use a packag
 
 ## Usage
 
-```python
-import foobar
+all .py files can be ran by changing into the desired directory and running 
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+'''bash
+python3 example_file.py
+'''
 
 ## Contributing
 
