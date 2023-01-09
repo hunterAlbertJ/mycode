@@ -1,0 +1,7 @@
+export OS_AUTH_URL=admin
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=asdf
+export OS_PROJECT_DOMAIN_NAME=asdf
+export OS_USERNAME=adsf
+export OS_USER_DOMAIN_NAME=ads
+export OS_PASSWORD=adsf
