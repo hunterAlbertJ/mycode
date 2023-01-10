@@ -32,4 +32,14 @@ class Cheat_Loaded_Dice(Player): # inheritance of Player
             if self.dice[i] < 6:
                 self.dice[i] += 1
             i += 1
-
+class Cheat_Mulligan(Player):
+    def cheat(self):
+        total = 0
+        i = 0
+        while i < len(self.dice):
+            total += self.dice[i]
+            i += 1
+        if total < 9:
+            print('bad sport')
+            self.roll()
+        
